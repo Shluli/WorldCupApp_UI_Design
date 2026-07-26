@@ -13,7 +13,7 @@ Everything ties back to FIFA's official 2026 identity — the trophy mark, the d
 
 <!-- add your images here, e.g.: -->
 ![Groups](screenshots/groups.jpg)
-![Bracket](screenshots/bracket.jpg)
+![Bracket](screenshots/Bracket.jpg) 
 ![My Week](screenshots/my-week.jpg)
 ![Matches](screenshots/matches.jpg)
 ![Home screen widgets](screenshots/widgets.jpg)
