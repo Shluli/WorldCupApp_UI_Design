@@ -12,12 +12,12 @@ Everything ties back to FIFA's official 2026 identity — the trophy mark, the d
 ## Screenshots
 
 <!-- add your images here, e.g.: -->
-![Groups](screenshots/groups.png)
-![Bracket](screenshots/bracket.png)
-![My Week](screenshots/my-week.png)
-![Matches](screenshots/matches.png)
-![Home screen widgets](screenshots/widgets.png)
-![App icon](screenshots/icon-final.png)
+![Groups](screenshots/groups.jpg)
+![Bracket](screenshots/bracket.jpg)
+![My Week](screenshots/my-week.jpg)
+![Matches](screenshots/matches.jpg)
+![Home screen widgets](screenshots/widgets.jpg)
+![App icon](screenshots/icon.jpeg)
 
 ## Try it
 
