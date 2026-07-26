@@ -18,16 +18,16 @@ Everything ties back to FIFA's official 2026 identity — the trophy mark, the d
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/groups.png" width="250">
-  <img src="screenshots/Bracket.png" width="250">
-  <img src="screenshots/my-week.png" width="250">
+  <img src="screenshots/groups.jpg" width="250">
+  <img src="screenshots/Bracket.jpg" width="250">
+  <img src="screenshots/week.jpg" width="250">
 </p>
 <p align="center">
-  <img src="screenshots/matches.png" width="250">
-  <img src="screenshots/widgets.png" width="250">
+  <img src="screenshots/matches.jpg" width="250">
+  <img src="screenshots/widgets.jpg" width="250">
 </p>
 <p align="center">
-  <img src="screenshots/icon-final.png" width="200">
+  <img src="screenshots/icon.jpeg" width="200">
 </p>
 
 ## Try it
