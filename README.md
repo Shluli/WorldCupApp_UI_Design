@@ -27,7 +27,7 @@ Everything ties back to FIFA's official 2026 identity — the trophy mark, the d
   <img src="screenshots/widgets.jpg" width="250">
 </p>
 <p align="center">
-  <img src="screenshots/icon.jpeg" width="200">
+  <img src="screenshots/fwc_icon.png" width="200">
 </p>
 
 ## Try it
