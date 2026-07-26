@@ -2,22 +2,33 @@
 
 The 2026 World Cup branding sparked something in me — so I designed a full app UI from scratch, pages, backgrounds and widgets, and implemented it with AI right before kickoff to follow the football festival the way I wanted to.
 
-Let me make it clear, this is a **design** project, not a coding one.
+**Design and UX by me. Implementation AI-assisted.**
 
 ## The design
 
-The app has 4 main screens, along with 4 widgets, each with a different color.
+I built a full visual system, not just screens. Each section has its own colour identity, carried consistently across backgrounds, pills and accents:
+
+- **Matches** — green
+- **Groups** — orange
+- **Bracket** — monochrome
+- **My Week** — blue
+
 Everything ties back to FIFA's official 2026 identity — the trophy mark, the display typography, and the concentric background pattern echoed throughout.
 
 ## Screenshots
 
-<!-- add your images here, e.g.: -->
-![Groups](screenshots/groups.jpg)
-![Bracket](screenshots/Bracket.jpg) 
-![My Week](screenshots/my-week.jpg)
-![Matches](screenshots/matches.jpg)
-![Home screen widgets](screenshots/widgets.jpg)
-![App icon](screenshots/icon.jpeg)
+<p align="center">
+  <img src="screenshots/groups.png" width="250">
+  <img src="screenshots/Bracket.png" width="250">
+  <img src="screenshots/my-week.png" width="250">
+</p>
+<p align="center">
+  <img src="screenshots/matches.png" width="250">
+  <img src="screenshots/widgets.png" width="250">
+</p>
+<p align="center">
+  <img src="screenshots/icon-final.png" width="200">
+</p>
 
 ## Try it
 
@@ -25,4 +36,4 @@ An APK is available under [Releases](../../releases) if you want to run it on an
 
 ## Tech
 
-Design done from scratch by me (backgrounds, layouts, widgets, icon). Implemented into a working Android app with AI assistance with Kotlin and XML, built to ship before the tournament kicked off.
+Design done from scratch by me (backgrounds, layouts, widgets, icon). Implemented into a working Android app with AI assistance, built to ship before the tournament kicked off.
